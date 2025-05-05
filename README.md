@@ -6,4 +6,5 @@
 
 
 
-[![](https://github.com/fvdavid/fvdavid/blob/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fvdavid&theme=solarized_dark)
+![](https://github-readme-stats.vercel.app/api?username=fvdavid&show_icons=true&count_private=true&theme=solarized-dark&hide_title=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvdavid&layout=compact&theme=solarized-dark)
