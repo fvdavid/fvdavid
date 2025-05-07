@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm fvdavid 👋</h2>
+<h2 align="center">Hi, I'm fvdavid <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> </h2>
 
 [![Follow me on Twitter](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social)](https://x.com/fvdavid__)
 [![Follow me on GitHub](https://img.shields.io/github/followers/stefanoslig?style=social)](https://github.com/fvdavid)
